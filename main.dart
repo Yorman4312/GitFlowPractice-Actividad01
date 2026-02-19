@@ -112,7 +112,7 @@ void main() {
   }
 }
 
-// 1. Distancia recorrida de un automovil con velocidad constante
+// 1. Distancia recorrida de un automovil con velocidad constante.
 double distanciaRecorrida(double v, double t) {
   double d = v * t;
   print('La distancia recorrida es: $d km');
